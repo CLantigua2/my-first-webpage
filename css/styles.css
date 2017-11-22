@@ -2,6 +2,18 @@ h1 {
 	color: #0000ff;
 }
 
+.block {
+	text-align: center;
+	border: 1px solid black;
+	width: 500px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
 h2 {
 	font-style: italic;
 	text-align: center;
@@ -22,9 +34,4 @@ p {
 ul {
 	font-size: 20px;
 	line-height: 30px;
-}
-
-.myIntro {
-	padding: 5px;
-	margin: 10px;
 }
