@@ -10,11 +10,10 @@ _This is a simple website that shows you information about me as I learn web dev
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _fork a version of the project from github_
+* _create a clone of the project_
+* _commit clone copies of updates_
+
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
@@ -24,7 +23,7 @@ _no known bugs at this moment_
 
 ## Support and contact details
 
-_for support please contact site creater at clantigua954@gmail.com
+_for support please contact site creator at clantigua954@gmail.com_
 
 ## Technologies Used
 

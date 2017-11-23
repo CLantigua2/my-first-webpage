@@ -34,3 +34,14 @@ ul {
 	font-size: 20px;
 	line-height: 30px;
 }
+
+.wholeBody {
+}
+
+.row {
+	background-color: green;
+	width:300px;
+	border-radius: 10px;
+	border-color: black;
+	padding:5px;
+}
