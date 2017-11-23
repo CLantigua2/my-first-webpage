@@ -1,3 +1,7 @@
+body {
+	background-color: #990cd6;
+}
+
 h1 {
 	color: #0000ff;
 }
@@ -40,14 +44,14 @@ ol {
 	line-height: 30px;
 }
 
-.wholeBody {
-}
+#list {
+	display: block;
+	float: left;
+	margin: 3px;
+	border: black;
+	border-radius: 10%;
+	padding: 20px;
+	min-height: 10px;
+	background-color: silver;
 
-.row {
-	background-color: green;
-	width:300px;
-	border-radius: 10px;
-	border-color: black;
-	padding:5px;
-	margin-bottom: 10px;
 }
