@@ -1,0 +1,22 @@
+.intro {
+	width: 50%;
+	font-style: italic;
+}
+
+.author {
+	width: 75%;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.column {
+	float: left;
+	width: 300px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: green;
+  padding-left: 10px;
+	padding-right: 10px;
+
+}
