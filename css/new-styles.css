@@ -24,3 +24,20 @@ body {
 	padding-right: 10px;
 
 }
+
+.sidebar {
+	float: right;
+	background-color: white;
+	color: black;
+	width: 120px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 20px;
+  padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+}
+
+.seetherPic {
+	width:25%;
+}
