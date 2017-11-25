@@ -16,6 +16,7 @@ body{
 	height: 100%;
 	background: black;
 	overflow: hidden;
+	float: left;
 	/*This is the size of the side bar*/
 
 }
@@ -58,6 +59,10 @@ body{
 
 .sidebar li:hover{
 	background: #4e4e4e;
+  color: white;
+	padding: 10px 20px;
+	display: block;
+	margin: auto;
 	/*This handles the background color when the mouse hovers over*/
 
 }
@@ -78,4 +83,12 @@ body{
 	font-family: sans-serif;
 	/*This is for the content in the paragraph*/
 
+}
+
+.content span{
+	background: #4e4e4e;
+	color: white;
+	padding: 10px 20px;
+	display: block;
+	margin: auto;
 }
