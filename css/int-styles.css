@@ -4,20 +4,18 @@
 }
 
 .titleBar {
-background-color: blue;
-color:white;
 width:100%;
 float:left;
 }
 
 .contact {
-	color: white;
-	float: right;
+
 
 }
 
 .important {
-	width: 100%;
 	background-color: blue;
-
+	color: white;
+	float: right;
+	height: 100%;
 }
