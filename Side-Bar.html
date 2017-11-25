@@ -5,6 +5,7 @@
 	<meta charset="utf-8">
 	<link href="css/sidebar-styles.css" rel="stylesheet">
 	<script src="https://use.fontawesome.com/d1341f9b7a.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	<title>Side bar</title>
 </head>
 
@@ -49,10 +50,26 @@
 				Tristique magna sit amet purus gravida quis blandit. Id consectetur purus ut faucibus pulvinar elementum. Eu non diam phasellus vestibulum lorem. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. In eu mi bibendum neque
 				egestas congue quisque egestas diam. Nulla porttitor massa id neque aliquam. Dui nunc mattis enim ut.</p>
 
-			<span>Show Sidebar</span>
+			<span class="hide">Show Sidebar</span>
 		</div>
-
 	</div>
+
+	<script type="text/javascript">
+		$(".sidehide").on('click', function() {
+				$('.doc').toggleClass("show");
+
+			}
+
+		);
+	</script>
+	<script type="text/javascript">
+		$(".hide").on('click', function() {
+				$('.doc').toggleClass("show");
+
+			}
+
+		);
+	</script>
 </body>
 
 </html>
