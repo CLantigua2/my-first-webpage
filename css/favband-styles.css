@@ -27,9 +27,9 @@ body {
 
 .sidebar {
 	float: right;
-	background-color: white;
+	background-color: black;
 	border: 2px solid blue;
-	color: black;
+	color: blue;
 	width: 120px;
 	margin-top: 20px;
 	margin-left: 50px;
@@ -41,4 +41,10 @@ body {
 
 .seetherPic {
 	width:25%;
+}
+
+.sidebar u h2{
+	font-size: 32px;
+	padding-right: 35px;
+	color:white;
 }
