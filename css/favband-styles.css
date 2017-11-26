@@ -28,6 +28,7 @@ body {
 .sidebar {
 	float: right;
 	background-color: white;
+	border: 2px solid blue;
 	color: black;
 	width: 120px;
 	margin-top: 20px;
